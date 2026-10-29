@@ -377,6 +377,7 @@ Individually installable Agent Skills collections, rather than one client-specif
 - [Gnos](https://github.com/madhvantyagi/Gnos) - Teaching harness plugin that plans courses, diagnoses reasoning gaps, and generates lessons with diagrams, simulations, and PDFs.
 - [go-ultimate](https://github.com/Djarvur/go-ultimate) - Opinionated Go skill that routes any Go task (CLI, library, backend service, MCP server, AI agent) to the right architecture, conventions, and review checklist across Claude Code, Codex, Cursor, Grok Build, Copilot CLI, and OpenCode.
 - [Grafana Dashboards-as-Code](https://github.com/jburgess/mcp-grafana) - Typed Grafana dashboard and panel builders, structural linting, semantic dashboard diff, and scaffold/audit/review recipes exposed over MCP.
+- [GraphFlow](https://github.com/Roarpeng/GraphFlow) - MCP server and cross-agent installer providing surgical symbol read, edit, exec and macro tools for coding agents. <!-- platform: standalone -->
 - [GrayMatter](https://github.com/ValkyrLabs/GrayMatter) - Durable memory and shared graph state for Codex and OpenClaw agents, with live ValkyrAI schema awareness.
 - [Gremlyn](https://github.com/gremlyn-ai/gremlyn) - Security and chaos engineering for MCP agents: a Claude Code plugin that breaks your agent's MCP tools on purpose to test prompt-injection defenses and resilience.
 - [grip](https://github.com/guilyx/grip) - Git hook that quizzes you on your own diff before commit or push, with a Claude Code plugin plus Codex and Gemini CLI support.
