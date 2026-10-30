@@ -11713,6 +11713,20 @@
       "install_url": "https://raw.githubusercontent.com/Hredo/ai-command-center/HEAD/.codex-plugin/plugin.json"
     },
     {
+      "name": "AI-FluxMux",
+      "displayName": "AI-FluxMux",
+      "description": "Windows desktop router for OpenAI-compatible clients with local and cloud models, per-profile routing, model variants and usage telemetry; source is available under the PolyForm Noncommercial license",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "platform": "standalone",
+      "ecosystems": [
+        "standalone"
+      ],
+      "owner": "ArchPrime",
+      "repo": "AI-FluxMux",
+      "url": "https://github.com/ArchPrime/AI-FluxMux"
+    },
+    {
       "name": "ai-memory-skill",
       "displayName": "ai-memory-skill",
       "description": "Persistent memory skill for Claude Code and Kiro that auto-loads markdown context and runs a consolidation pass (`npx ai-memory-skill`)",
